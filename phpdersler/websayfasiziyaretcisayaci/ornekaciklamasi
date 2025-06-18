@@ -1,0 +1,8 @@
+Web Sayfası Ziyaretçi Sayacı
+• Kişisel sayfa web sayfası için geliştirilen (en az 3 sayfalık)
+site için
+• Sayac bilgisi bir SESSION içinde saklı kalacak
+• Bu bilgiler ile hangi sayfaları kaç defa gezdiği bilgisi
+saklanacak
+• İstatistik sayfası oluşturulacak ve sayfalardaki gezinme
+bilgileri görüntülenecek
